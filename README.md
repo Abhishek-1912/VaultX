@@ -1,0 +1,2 @@
+# VaultX
+VaultX Wallet
